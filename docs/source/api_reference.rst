@@ -13,6 +13,8 @@ For notebook examples, see the :ref:`examples`.
 
 For a list of object and estimator tags, see :ref:`tags_ref`.
 
+For a list of object and estimator types, see :ref:`estimator_types_ref`.
+
 .. include:: includes/api_css.rst
 
 .. toctree::
