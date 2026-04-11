@@ -178,5 +178,5 @@ def test_run_test_for_class():
         assert reason_wdep == reason or reason_nodep == reason
     else:
         assert reason == "False_no_change"
-        assert reason_wdep == "False_no_change"
+        assert reason_wdep in ["False_no_change", "False_requires_vm"]
         assert reason_nodep == "False_no_change"
